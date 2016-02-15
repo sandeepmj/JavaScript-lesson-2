@@ -26,12 +26,22 @@
 <p>We'll use the window <code>alert()</code> method to see if a command we are giving is actually coming through. You'll quickly realize how useful these alerts are to debugging your code. </p>
 
 <p>In your first button tag, add: <code>onclick="alert('Hello, my button works!')"</code></p>
-<img src="/img/console.png">
+
+<img src="/img/mag-glass.png">
 <p>Note that if you start with a double quote, you must have a single quote inside the alert() and vice versa. </p>
 
 <p>Add an alert with a different message into your second button.</p>
 
 <h2>Functions</h2>
-<p>Now we come to one of the real strengths of just about any programming language - the <strong>Function</strong>. Let's actually just put a function to work before I even define it.</p>
+<p>Now we come to one of the real strengths of just about any programming language - the <strong>Function</strong>. Let's actually just put a function to work before I even define it. Type the following in a separate <code>.js</code> file that is linked to your <code>button.html</code>file:</p>
+<ul>
+	<li>
+		Inside your button tag, add <code>onclick='myAlert()'</code>.
+	</li>
+	<li>In your JavaScript file, add:<br>
+		<code>function myAlert(){<br>
+	alert('Hello again from button 1!');<br>
+}</code></li>
+</ul>
 
 
