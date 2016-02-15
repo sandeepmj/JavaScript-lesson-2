@@ -40,11 +40,12 @@
 
 <p>What happens when you click on button 1?</p>
 
-<p>Let's go one step further before explaining functions. Create a placeholder div with the <code>id="test"</code> in your html file.</p>
+<p>Let's go one step further before explaining functions. 
+	Create a placeholder div with the <code>id="test"</code> in your html file.</p>
 
-	<p>In your button tag, add <code>onclick='fillText()'</code>.</p>
+	<p>In your button tag, add onclick='fillText()'.</p>
 	<p>It should look like this:</p>
-	<p>
+<p>
 	<img src="/img/button4.png">
 </p>
 
