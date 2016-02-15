@@ -33,15 +33,23 @@
 <p>Add an alert with a different message into your second button.</p>
 
 <h2>Functions</h2>
-<p>Now we come to one of the real strengths of just about any programming language - the <strong>Function</strong>. Let's actually just put a function to work before I even define it. Type the following in a separate <code>.js</code> file that is linked to your <code>button.html</code>file:</p>
-<ul>
-	<li>
-		Inside your button tag, add <code>onclick='myAlert()'</code>.
-	</li>
-	<li>In your JavaScript file, add:<br>
-		<code>function myAlert(){<br>
-	alert('Hello again from button 1!');<br>
-}</code></li>
-</ul>
+<p>Now we come to one of the real strengths of just about any programming language - the <strong>Function</strong>. Let's actually just put a function to work before I even define it. Inside your button tag, add <code>onclick='myAlert()'</code>. In an external JavaScript file, add the following:<p>
+<p>
+	<img src="/img/js1.png">
+</p> 
 
+<p>What happens when you click on button 1?</p>
+
+<p>Let's go one step further before explaining functions. Create a placeholder div with the <code>id="test"</code> in your html file.</p>
+
+	<p>In your button tag, add <code>onclick='fillText()'</code>.</p>
+	<p>It should look like this:</p>
+	<p>
+	<img src="/img/button4.png">
+</p>
+
+ Then type the following into your js file: </p>
+<p>
+	<img src="/img/funtion1.png">
+</p>
 
