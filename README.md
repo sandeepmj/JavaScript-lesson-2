@@ -46,11 +46,11 @@
 	<p>In your button tag, add onclick='fillText()'.</p>
 	<p>It should look like this:</p>
 <p>
-	<img src="/img/button4.png">
+	<img src="/img/button3.png">
 </p>
 
  Then type the following into your js file: </p>
 <p>
-	<img src="/img/funtion1.png">
+	<img src="/img/function1.png">
 </p>
 
