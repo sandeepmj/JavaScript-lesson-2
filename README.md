@@ -96,6 +96,19 @@
 <h2>Exercise 1</h2>
 <p>In Sublime, take your work from last week's <a href="https://github.com/sandeepmj/JavaScript-lesson-1#exercise-one-15-minutes">Exercise One</a> and trigger the change in style at the click of a button.</p>
 	
-	
+
+<h3>User Inputs</h3>
+
+<p>You can integrate information your audience provides into your interactive. Use HTML form inputs to ask for information. Then use JavaScript to capture and process it before returning altering your page. </p>
+
+<p>Let's first build the form:</p>
+<p>
+<img src="/img/form.png">
+</p>
+
+<p>Then we need to create a function to capture and process that information:</p>
+<p>
+<img src="/img/rentFunction.png">
+</p>
 
 
