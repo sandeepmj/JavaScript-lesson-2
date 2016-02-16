@@ -112,6 +112,17 @@
 </p>
 
 <h3>Exercise Two (25 minutes)</h3>
-<p>Take your homework exercise and update it by asking your audience to provide the two numbers that are then calculated for addition, subtraction, division and multiplication.</p>
+<p>Take your homework exercise and update it by asking your audience to provide the two numbers that are then calculated for addition, subtraction, division and multiplication. Display the results only after clicks a submit button.</p>
 
+<h2>Conditional Operators</h2>
+<p>JavaScript allows us to make comparison which then allows us to take an action. For example, if a user is paying more than 35 percent of his or her income on rent, we can tell them they are overpaying.</p>
 
+<p>You've seen some of these operators before:</p>
+<ul>
+	<li><code>5 &gt; 3</code> or 5 is greater than 3.</li>
+	<li><code>4 &lt; 8 </code>or 4 is less than 8.</li>
+</ul>
+
+<p>Where it gets a little stanger is for <strong>equal</strong> and <strong> not equal</strong>. Because we use <code>=</code> to assign value to a variable, we have to use <code>==</code> to denote equality and <code>!=</code> inequality</p>
+
+<p

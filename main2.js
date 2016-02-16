@@ -7,17 +7,29 @@ function fillText(){
 		"<br>Interactivity just added info to your page!";
 }
 
-
+var rent;
+var income;
+var percentage;
 
 function rentCalc(){
-	var rent = document.getElementById("rent").value;
-	var income = document.getElementById("income").value;
-	var percentage = rent / income * 100;
+	rent = document.getElementById("rent").value;
+	income = document.getElementById("income").value;
+	percentage = rent / income * 100;
 	alert(percentage + 
 		" percent of your $" + 
 		income  + 
 		" in income is spent on rent!");
 	//alert("The rent is $" + rent + " and your income is $" + income);
+	rightRent();
+}
+
+function rightRent(){
+	if (percentage > 35) {
+	alert("bad");	
+	} else {
+		alert("good!")
+	}
+	
 }
 
 
