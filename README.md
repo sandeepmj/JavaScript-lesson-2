@@ -70,4 +70,28 @@
 <img src="/img/define-function.png">
 </p>
 
+<h3>Naming Functions</h3>
+<p>All the same rules as naming variables apply.</p>
+
+<p>Again the idea is to give meaningful names to functions-- name them for what they do. Apart from that, here are some basic rules: </p>
+
+<ul>
+	<li>
+		They ARE case sensitive.
+	</li>
+	<li>
+		Cannot begin with numbers.
+	</li>
+	<li>
+		No spaces between words, instead use underscores, hypens or camelCase.
+	</li>
+	<li>
+		Don't use any JavaScript <a href="http://www.w3schools.com/js/js_reserved.asp">reserved words</a>.
+	</li>
+
+	<h3>Calling or Invoking a Function</h3>
+	<p>When you call or invoke a function, you trigger it to run and complete its task. You've already called a function in your button. You call a function by typing <code>functionName();</code></p>
+
+	<h2>Exercise 1</h2>
+	<p>In Sublime, take your work from last week's <a href="https://github.com/sandeepmj/JavaScript-lesson-1#exercise-one-15-minutes">Exercise One</a> and trigger the change in style at the click of a button.</p>
 

@@ -3,5 +3,6 @@ function myAlert(){
 }
 
 function fillText(){
-	document.getElementById("test").innerHTML = "<br>Interactivity just added info to your page!";
+	document.getElementById("test").innerHTML = 
+		"<br>Interactivity just added info to your page!";
 }
