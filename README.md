@@ -88,10 +88,11 @@
 	<li>
 		Don't use any JavaScript <a href="http://www.w3schools.com/js/js_reserved.asp">reserved words</a>.
 	</li>
-<ul>
+</ul>
 	<h3>Calling or Invoking a Function</h3>
 	<p>When you call or invoke a function, you trigger it to run and complete its task. You've already called a function in your button. You call a function by typing <code>myFunctionName();</code>. </p>
-
+<h2>Exercise 1</h2>
+	<p>In Sublime, take your work from last week's <a href="https://github.com/sandeepmj/JavaScript-lesson-1#exercise-one-15-minutes">Exercise One</a> and trigger the change in style at the click of a button.</p>
 	
 
 
