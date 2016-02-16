@@ -130,5 +130,5 @@
 <h3>Logical Operators </h3>
 <p>Logical Operators simply allow you to compare relationships or logic between various variables-- like <strong>and</strong> and <strong>or</strong>. And is written as <code>&&</code> and or is written as <code>||</code></p>
 <p>
-<img src="/img/equality.pgn">
+<img src="/img/comparison.pgn">
 </p>
