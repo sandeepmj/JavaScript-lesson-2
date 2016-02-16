@@ -27,7 +27,7 @@
 
 <p>In your first button tag, add: <code>onclick="alert('Hello, my button works!')"</code></p>
 
-<img src="/img/mag-glass.png">
+<img src="/img/mag-glass.jpg">
 <p>Note that if you start with a double quote, you must have a single quote inside the alert() and vice versa. </p>
 
 <p>Add an alert with a different message into your second button.</p>
@@ -93,11 +93,11 @@
 <p>When you call or invoke a function, you trigger it to run and complete its task. You've already called a function in your button. You call a function by typing <code>myFunctionName();</code>.</p>
 	
 
-<h2>Exercise 1</h2>
+<h2>Exercise 1 (20 minutes)</h2>
 <p>In Sublime, take your work from last week's <a href="https://github.com/sandeepmj/JavaScript-lesson-1#exercise-one-15-minutes">Exercise One</a> and trigger the change in style at the click of a button.</p>
 	
 
-<h3>User Inputs</h3>
+<h2>User Inputs</h2>
 
 <p>You can integrate information your audience provides into your interactive. Use HTML form inputs to ask for information. Then use JavaScript to capture and process it before returning altering your page. </p>
 
@@ -110,5 +110,8 @@
 <p>
 <img src="/img/rentFunction.png">
 </p>
+
+<h3>Exercise Two (25 minutes)</h3>
+<p>Take your homework exercise and update it by asking your audience to provide the two numbers that are then calculated for addition, subtraction, division and multiplication.</p>
 
 
