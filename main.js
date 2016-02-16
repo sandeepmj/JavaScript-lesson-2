@@ -10,12 +10,12 @@ function fillText(){
 
 
 function rentCalc(){
-	var rent = document.getElementById("rent").value;
-	var income = document.getElementById("income").value;
-	var percentage = rent / income * 100;
+	var myRent = document.getElementById("rent").value;
+	var myIncome = document.getElementById("income").value;
+	var percentage = myRent / myIncome * 100;
 	alert(percentage + 
 		" percent of your $" + 
-		income  + 
+		myIncome  + 
 		" in income is spent on rent!");
 	//alert("The rent is $" + rent + " and your income is $" + income);
 }

@@ -132,7 +132,7 @@
 
 
 <h3>Exercise Two (25 minutes)</h3>
-<p>Take your homework exercise and update it by asking your audience to provide the two numbers that are then calculated for addition, subtraction, division and multiplication. Display the results only after clicks a submit button.</p>
+<p>Take your homework exercise and update it by asking your audience to provide the two numbers that are then calculated for addition, subtraction, division and multiplication. Display the results only after someone clicks a submit button.</p>
 
 <h2>Comparison Operators</h2>
 <p>JavaScript allows us to make comparison which then allows us to take an action. For example, if a user is paying more than 35 percent of his or her income on rent, we can tell them they are overpaying.</p>
