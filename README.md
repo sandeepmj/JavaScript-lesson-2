@@ -40,10 +40,12 @@
 
 <p>What happens when you click on button 1?</p>
 
-<p>Let's go one step further before explaining functions. 
-	Create a placeholder div with the <code>id="test"</code> in your html file.</p>
+<p>Let's go one step further before explaining functions. Make a copy of your current html file and save it as <code>button3.html</code>.
 
-	<p>In your button tag, add onclick='fillText()'.</p>
+	<p>Create a placeholder div with the <code>id="test"</code> in your new html file.</p>
+	
+
+	<p>In your button tag, remove the alert and replace with <code>onclick='fillText()'</code>. Again, I could have named it almost anything from <code>runDog()</code> to <code>sleepCat()</code>.</p>
 	<p>It should look like this:</p>
 <p>
 	<img src="/img/button3.png">
@@ -53,4 +55,19 @@
 <p>
 	<img src="/img/function1.png">
 </p>
+<p>What happens when you click on the button....you get some intactivity!</p>
+
+<h3>Defining Functions</h3>
+<p>A functions is:</p>
+<ul>
+	<li>a little block of script (one line or many) that performs specific task or a series of tasks.</li>
+	<li>reusable.</li>
+	<li>performed when something "invokes" or "calls" it.</li>
+	<li>ideally modular--that is, it performs a narrow task so you can run several functions to perform more complex tasks.</li>
+</ul>
+
+<p>
+<img src="/img/define-function.png">
+</p>
+
 
