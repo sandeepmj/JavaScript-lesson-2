@@ -114,7 +114,7 @@
 <h3>Exercise Two (25 minutes)</h3>
 <p>Take your homework exercise and update it by asking your audience to provide the two numbers that are then calculated for addition, subtraction, division and multiplication. Display the results only after clicks a submit button.</p>
 
-<h2>Conditional Operators</h2>
+<h2>Comparison Operators</h2>
 <p>JavaScript allows us to make comparison which then allows us to take an action. For example, if a user is paying more than 35 percent of his or her income on rent, we can tell them they are overpaying.</p>
 
 <p>You've seen some of these operators before:</p>
@@ -123,6 +123,12 @@
 	<li><code>4 &lt; 8 </code>or 4 is less than 8.</li>
 </ul>
 
-<p>Where it gets a little stanger is for <strong>equal</strong> and <strong> not equal</strong>. Because we use <code>=</code> to assign value to a variable, we have to use <code>==</code> to denote equality and <code>!=</code> inequality</p>
+<p>Where it gets a little stanger is for <strong>equal</strong> and <strong> not equal</strong>. Because we use <code>=</code> to assign value to a variable, we have to use <code>==</code> to denote equality and <code>!=</code> for inequality</p>
 
-<p
+<p>Here's a <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators#Comparison_operators">complete list of comparison operators</a></p>
+
+<h3>Logical Operators </h3>
+<p>Logical Operators simply allow you to compare relationships or logic between various variables-- like <strong>and</strong> and <strong>or</strong>. And is written as <code>&&</code> and or is written as <code>||</code></p>
+<p>
+<img src="/img/equality.pgn">
+</p>
