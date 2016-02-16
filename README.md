@@ -157,7 +157,7 @@
 
 <p>At this point you might be wondering, so what?</p>
 <p>Here's what:</p>
-<p>Imagine writing a function that does different things based on user input. For example, <strong><code>if</code></strong> someone someone's rent to income is greater than 35 percent <strong><code>&&</code></strong> your function can tell them they are overpaying, <strong><code>else</code> your function tells them they are paying the right amount.</strong> </p>
+<p>Imagine writing a function that does different things based on user input. For example, <strong><code>if</code></strong> someone someone's rent to income is greater than 35 percent your function can tell them they are overpaying, <strong><code>else</code> your function tells them they are paying the right amount.</strong> </p>
 
 <p>I created a <code>form2.html</code> that is exactly the same except I'm pointing it to <code>main2.js</code></p>
 <p><code>main2.js</code> should look like this:</p>
@@ -166,6 +166,6 @@
 </p>
 
 <h2>Homework</h2>
-<p>Using JavaScript learned over the past two weeks, create a simple calculator to inform your audience whether they should buy a monthly MetroCard or a per ride MetroCard based on how many times they ride the subway.</p>
+<p>Using JavaScript learned over the past two weeks, create a simple calculator to inform your audience whether they should buy a monthly MetroCard or a per ride MetroCard based on how many times they ride the subway per month.</p>
 
 <p> <strong>Due: Monday, Feb. 22 by Noon on your github account</strong>. Share the URL on Slack (your instructor will tell you which channel.</p>
