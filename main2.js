@@ -25,9 +25,9 @@ function rentCalc(){
 
 function rightRent(){
 	if (percentage > 35) {
-	alert("bad");	
+	alert("You are paying too much rent!");	
 	} else {
-		alert("good!")
+		alert("Your rent to income ratio is just right!")
 	}
 	
 }

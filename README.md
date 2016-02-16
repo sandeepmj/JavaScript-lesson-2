@@ -1,3 +1,19 @@
+<h1>Review Homework</h1>
+
+<p>Create a Web page on which information is dynamically added from an external JavaScript file. Here's what you need to accomplish: </p>
+
+<ul>
+	<li>Declare two numberic variables.</li>
+	<li>Add them together using a JavaScript operator.</li>
+	<li>Multiply them together using a JavaScript operator.</li>
+	<li>Divide one by the other using a JavaScript operator.</li>
+	<li>Subtract one from the other using a JavaScript operator.</li>
+	<li>Create separate sentences for each mathematical operation that provides the results. For example, for addition, it should say something like "When I add firstVariable to secondVariable I get thirdVariable." </li>
+	<li>You must use <code>document.getElementById().innerHTML</code></li>
+	<li>Do NOT use <code>document.write</code>.</li>
+	<li>Remember it has to be dynamic so if you change the value of the variables, the webpage should show updated results automatically.</li>
+</ul>
+
 <h1>JavaScript Lesson 2: Interactivity</h1>
 
 <p>A web page can react or change according to user inputs and clicks. Let's explore one of the most common forms of interactivity--the button.</p>
@@ -106,10 +122,14 @@
 <img src="/img/form.png">
 </p>
 
-<p>Then we need to create a function to capture and process that information:</p>
+<p>Then we need to create a function to capture and process that information.</p>
+
+<p>We'll use the <code>.value</code> method to grab the value of a variable.</p>
 <p>
 <img src="/img/rentFunction.png">
 </p>
+
+
 
 <h3>Exercise Two (25 minutes)</h3>
 <p>Take your homework exercise and update it by asking your audience to provide the two numbers that are then calculated for addition, subtraction, division and multiplication. Display the results only after clicks a submit button.</p>
@@ -128,7 +148,7 @@
 <p>Here's a <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators#Comparison_operators">complete list of comparison operators</a></p>
 
 <h3>Logical Operators </h3>
-<p>Logical Operators simply allow you to compare relationships or logic between various variables-- like <strong>and</strong> and <strong>or</strong>. And is written as <code>&&</code> and or is written as <code>||</code></p>
+<p>Logical Operators simply allow you to compare relationships or logic between various variables-- like <strong>and</strong> and <strong>or</strong>. The logic for "and" is written as <code>&&</code> and the logic for "or" is written as <code>||</code></p>
 <p>
-<img src="/img/comparison.pgn">
+<img src="/img/comparison.png">
 </p>
