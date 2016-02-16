@@ -148,7 +148,21 @@
 <p>Here's a <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators#Comparison_operators">complete list of comparison operators</a></p>
 
 <h3>Logical Operators </h3>
-<p>Logical Operators simply allow you to compare relationships or logic between various variables-- like <strong>and</strong> and <strong>or</strong>. The logic for "and" is written as <code>&&</code> and the logic for "or" is written as <code>||</code></p>
+<p>Logical Operators simply allow you to compare relationships or logic between various variables-- like <strong>and</strong> and <strong>or</strong>. The logic for "and" is written as <code>&&</code> and the logic for "or" is written as <code>||</code>. Here's a <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators#Logical_operators">full list of logical operators</a>.</p>
 <p>
 <img src="/img/comparison.png">
 </p>
+
+<h3>So What?</h3>
+
+<p>At this point you might be wondering, so what?</p>
+<p>Here's what:</p>
+<p>Imagine writing a function that does different things based on user input. For example, <strong><code>if</code></strong> someone someone's rent to income is greater than 35 percent <strong><code>&&</code></strong> your function can tell them they are overpaying, <strong><code>else</code> your function tells them they are paying the right amount.</strong> </p>
+
+<p>The form remains the same except I'm pointing it to <code>main2.js</code></p>
+<p><code>main2.js</code> should look like this:</p>
+<p>
+<img src="/img/compjs.png">
+</p>
+
+<h2>Homework</h2>
